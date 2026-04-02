@@ -1,6 +1,6 @@
-# anthropics-education
+# ai-edu-skills
 
-Skills for Claude: academic support and tutoring.
+Skills for ChatGPT & Claude: academic support and tutoring.
 
 ## Overview
 
