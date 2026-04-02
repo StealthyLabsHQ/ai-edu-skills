@@ -88,7 +88,7 @@ Skills can complement each other depending on the need:
 
 ## Installation
 
-### On Claude.ai — Skills Marketplace
+### On Claude.ai - Skills Marketplace
 
 1. Go to [claude.ai/customize/skills](https://claude.ai/customize/skills)
 2. Click **"Add skill"** (top right)
@@ -105,7 +105,7 @@ Available skill URLs:
 | `cover-letter` | `https://raw.githubusercontent.com/StealthyLabsHQ/ai-edu-skills/main/cover-letter/SKILL.md` |
 | `natural-writing` | `https://raw.githubusercontent.com/StealthyLabsHQ/ai-edu-skills/main/natural-writing/SKILL.md` |
 
-### On ChatGPT — Skills Marketplace
+### On ChatGPT - Skills Marketplace
 
 1. Go to [chatgpt.com/skills](https://chatgpt.com/skills)
 2. Click **"Add skill"**
