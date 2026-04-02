@@ -2066,3 +2066,4 @@ If the user requests a "total" or "deep" humanization:
 | `references/ai-markers.md` | Comprehensive blacklist of 60+ AI markers in English (words, structures, statistical signals) |
 | `references/detection-prompts.md` | Reconstructed detection prompts: formulas, thresholds, weightings, calibrated examples |
 | `references/self-evaluation-formulas.md` | Mathematical formulas for self-evaluating a text before delivery + self-evaluation prompt |
+| `references/compilatio-detection.md` | In-depth report on Compilatio Studium / Magister / Magister+: detection architecture, published metrics, false positive rates, documented bypass vectors, version history 2024–2026 |
