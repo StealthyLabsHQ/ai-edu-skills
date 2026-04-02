@@ -113,7 +113,7 @@ in order to better automate them."
 "My experiences have allowed me to acquire skills in management and IT."
 
 ✅ Personalized:
-"At ATF Firm, I automated bank reconciliation processing in VBA, reducing processing time
+"At Airbus Firm, I automated bank reconciliation processing in VBA, reducing processing time
 by several hours per client per week, which confronted me with the limits of a purely
 accounting-based approach when dealing with growing data volumes."
 
