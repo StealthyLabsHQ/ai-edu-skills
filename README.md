@@ -88,6 +88,10 @@ Skills can complement each other depending on the need:
 
 ## Installation
 
+> **Install skills directly from the official marketplaces:**
+> - **Claude:** [claude.ai/customize/skills](https://claude.ai/customize/skills)
+> - **ChatGPT:** [chatgpt.com/skills](https://chatgpt.com/skills)
+
 ### On Claude.ai (with Claude Code or Cowork)
 
 ```bash
